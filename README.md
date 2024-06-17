@@ -2,8 +2,6 @@
 - 🔭 Estudiando Ingeniería en Computación en la UNAM
 - 🌱 Interesado en el Desarrollo Web
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c886bc7e-5d27-4524-8d52-a284d1671ef4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 <!--
 **GaelAlburo/GaelAlburo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
